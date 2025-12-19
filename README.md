@@ -314,4 +314,4 @@ $ qemu-system-aarch64 \
   -append "console=ttyAMA0 rdinit=/bin/sh"
 ```
 
-A root shell with a # prompt should be displayed.
+A root shell with a ```#``` prompt should be displayed.
